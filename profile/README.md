@@ -9,20 +9,20 @@
 
 ## Important Links
 - YouTube Demo: \<to-be-provided>
-- Documents Repo: https://github.com/SkillVerser/Documents
+- Documents Repo: [https://github.com/SkillVerser/Documents](https://github.com/SkillVerser/Documents/tree/final-submission)
 - Source Code Repo: https://github.com/SkillVerser/freelancer-management-platform
 - Hosted Website: https://lively-coast-034460503.6.azurestaticapps.net/
 
 ## About
 This document serves as a guide for navigating the repositories in this organization. There are two repositories of interest, containing the following information:
 
-1. [Documentation](#documentation)
-2. [Source Code](#source-code)
+1. [Documentation](#documentation-repo)
+2. [Source Code](#source-code-repo)
 
 ## Navigating the repositories
 
-### Documentation
-The Documents repo contains all the documentation relating to the project - Scrum Methodology, UML Diagrams, Codebase documentation, etc. - and is organized into the following folders:
+### Documentation Repo
+The [Documents](https://github.com/SkillVerser/Documents/tree/final-submission) repo contains all the documentation relating to the project - Scrum Methodology, UML Diagrams, Codebase documentation, etc. - and is organized into the following folders:
 
 - **Sprint-1**: All documents from Sprint 1
 - **Sprint-2**: All documents from Sprint 2
@@ -34,5 +34,7 @@ Additionally, there are the following loose files:
 - **Submission-Links.txt**: This contains all relevant links pertaining to this project, i.e., the links to the YouTube demo, the hosted website, this GitHub organization, etc. This file is really only relevant for the Moodle Submission, as all these links can be found within this GitHub organization, and in previous sections of this document.
 - **skillverse-documentation.md**: This is the documentation of the source code. It is also available as the README.md file in the Documents repository
 
-### Source Code
-This repo contains the source code for the project. It also contains a little bit of information about the project, and a README.md that details how to run the app locally.
+**NB - THESE FOLDERS AND FILES ARE IN THE `final-submission` BRANCH. ALL RELATIVE LINKS ABOVE WILL TAKE YOU DIRECTLY TO THAT BRANCH**
+
+### Source Code Repo
+The [Source Code](https://github.com/SkillVerser/freelancer-management-platform) repo contains the source code for the project. It also contains a little bit of information about the project, and a README.md that details how to run the app locally.
