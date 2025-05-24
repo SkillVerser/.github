@@ -30,6 +30,8 @@ The [Documents](https://github.com/SkillVerser/Documents/tree/final-submission) 
 - **Sprint 4**: All documents from Sprint 4
 - **Final-Documentation**: The combination of documents from each sprint that make up the final document collection of the project
 
+Note: In `Final-Documentation`, there two files related to requirements - `CompleteRequirementsGathering.pdf`, and `RequirementsBacklogTracking.pdf`. The former contains all of our user stories and UATs accross all four sprints, while the latter contains the requirements backlog, tasks, and shows the tracking and assigning of tasks.
+
 Additionally, there are the following loose files:
 - **Submission-Links.txt**: This contains all relevant links pertaining to this project, i.e., the links to the YouTube demo, the hosted website, this GitHub organization, etc. This file is really only relevant for the Moodle Submission, as all these links can be found within this GitHub organization, and in previous sections of this document.
 - **skillverse-documentation.md**: This is the documentation of the source code. It is also available as the README.md file in the Documents repository
