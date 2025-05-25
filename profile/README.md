@@ -8,7 +8,7 @@
 - Tazeem Tayob - 2659956 | 2659956@students.wits.ac.za
 
 ## Important Links
-- YouTube Demo: \<to-be-provided>
+- YouTube Demo: https://www.youtube.com/watch?v=HHg_KDfltgc
 - Documents Repo: [https://github.com/SkillVerser/Documents](https://github.com/SkillVerser/Documents/tree/final-submission)
 - Source Code Repo: https://github.com/SkillVerser/freelancer-management-platform
 - Hosted Website: https://lively-coast-034460503.6.azurestaticapps.net/
